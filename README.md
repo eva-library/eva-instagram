@@ -46,4 +46,7 @@ With this you have configured and working your facebook.
 
 **- eva Configuration**
 
+Pendiente
+
 **- Test connector**
+Pendiente
