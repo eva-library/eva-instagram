@@ -11,13 +11,10 @@ This application is a Spring Boot app and uses the Azure Kubernetes Service (AKS
 
 ## 2. Configuration
 
-`![](https://i.ibb.co/khcb12V/01.png | width=100)`
 
-![](https://i.ibb.co/khcb12V/01.png | width=100)
+`![](https://i.ibb.co/khcb12V/01.png=250x250)`
 
-`![](https://i.ibb.co/khcb12V/01.png =250x250)`
-
- ![](https://i.ibb.co/khcb12V/01.png =250x250)
+ ![](https://i.ibb.co/khcb12V/01.png=250x250)
 
 
 1. First of all, it is necessary to have a business app created at https://developers.facebook.com/ and click the option **My Apps**.
