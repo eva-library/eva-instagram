@@ -11,8 +11,9 @@ This application is a Spring Boot app and uses the Azure Kubernetes Service (AKS
 
 ## 2. Configuration
 
+**- Facebook Configuration**
 1. First of all, it is necessary to have a business app created at https://developers.facebook.com/ and click the option **My Apps**.
-![](https://i.ibb.co/khcb12V/01.png)
+![](https://i.ibb.co/khcb12V/01.png=200x)
 
 2. Once the app is open, inside the panel, look for the Instagram Grap API and select Configure. In the left bar, select the option Messenger and then, Instagram setup. 
 ![](https://i.ibb.co/swHLBRK/02.png)
@@ -31,3 +32,18 @@ This application is a Spring Boot app and uses the Azure Kubernetes Service (AKS
 
 9. At the end of the associated Facebook page, you will find the edit button, click and select the permissions "messages" and "messaging_postbacks": 
 ![](https://i.ibb.co/X7VTxt0/06.png)
+
+With this you have configured and working your facebook.
+
+**- Instagram Configuration**
+
+1. We select the option Messenger> Instagram Settings
+2. And we add our instagram company profile.
+![](https://i.ibb.co/WG9S2Sh/07.png)
+
+3. And we also add the webhooks in the configuration.
+![](https://i.ibb.co/BNJ855Q/08.png)
+
+**- eva Configuration**
+
+**- Test connector**
