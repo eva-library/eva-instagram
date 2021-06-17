@@ -50,7 +50,7 @@ With this you have configured and working your facebook.
 ![](https://i.ibb.co/RHGPVWW/001.png)
 
 2. Then we go to the option "Create a bot".
-![](https://i.ibb.co/yBVRdKG/002.png)
+![](https://i.ibb.co/k0ms9Vs/009.png)
 
 3. To create a bot you must select.
 -- Upload avatar
