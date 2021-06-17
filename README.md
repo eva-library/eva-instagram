@@ -46,7 +46,33 @@ With this you have configured and working your facebook.
 
 **- eva Configuration**
 
-Pendiente
+1. The first thing is to go to our cockip of eva.
+![](https://i.ibb.co/RHGPVWW/001.png)
+
+2. Then we go to the option "Create a bot".
+![](https://i.ibb.co/yBVRdKG/002.png)
+
+3. To create a bot you must select.
+-- Upload avatar
+-- Write a name
+-- Select a NLP
+-- Select a Language
+-- and Select a Channel > **Instagram**
+
+![](https://i.ibb.co/TR6zL0g/003.png)
+
+4. With the flow trained and working, we need to connect it to Instagram, for which we go to the option **Parameters**
+
+![](https://i.ibb.co/dgtRNvq/004.png)
+5. Then we select the option "Create Parameters" and start creating one by one.
+**-- pageID:** Instagram Business ID.
+**-- pageName:** Instagram Business Name.
+**-- hubToken:** Secret word for service validation on facebook developer.
+**-- pageAccessToken:** Token of the fanPage that is related to the Instagram Business account
+**-- channelID:** Channel ID.
+ ![](https://i.ibb.co/ZgyWmQV/005.png)
+ ![](https://i.ibb.co/tHfPDwY/006.png)
 
 **- Test connector**
-Pendiente
+1.  Having all the components connected, we only have to test our bot.
+ ![](https://i.ibb.co/R7r3k3F/008.png)
