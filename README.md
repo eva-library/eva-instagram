@@ -46,7 +46,7 @@ With this you have configured and working your facebook.
 
 **- eva Configuration**
 
-1. The first thing is to go to our cockip of eva.
+1. The first thing is to go to our cockpit of eva.
 ![](https://i.ibb.co/RHGPVWW/001.png)
 
 2. Then we go to the option "Create a bot".
